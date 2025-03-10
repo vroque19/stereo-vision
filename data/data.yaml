@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Fish_model - v1 2024-02-21 3-11pm']
+
+roboflow:
+  workspace: mec-ywdlp
+  project: fish-c67za
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/mec-ywdlp/fish-c67za/dataset/4
